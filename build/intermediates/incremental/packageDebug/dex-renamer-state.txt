@@ -1,0 +1,7 @@
+#Mon Oct 24 06:54:50 IST 2016
+base.0=/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_576aca33545fed03eb5fbb85b6b275ac4c5d66ca
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e00a379a8ef7786069b3fa7d0dc4e62472c1ffa/classes.dex
+base.1=/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e00a379a8ef7786069b3fa7d0dc4e62472c1ffa
+file.0=/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_576aca33545fed03eb5fbb85b6b275ac4c5d66ca/classes.dex

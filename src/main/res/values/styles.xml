@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+
+<resources>
+
+    <style name="Theme.Black" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/theme_primary_cyan_500</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark_cyan_800</item>
+        <item name="colorAccent">@color/theme_accent_pink_A200</item>
+    </style>
+
+    <!--
+    <item name="colorPrimary">#3f51b5</item>
+        <item name="colorPrimaryDark">#303F9F</item>
+        <item name="colorAccent">#FF4081</item>
+        A59910
+
+<item name="colorPrimary">#0884A5</item>
+        <item name="colorPrimaryDark">#0D4959</item>
+        <item name="colorAccent">#A59910</item>
+    -->
+    <style name="Theme.Black.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+
+</resources>
+
+<!--
+<resources>
+
+<style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+</style>
+
+<style name="Theme.Bacon.Detail">
+    <item name="android:statusBarColor">@android:color/transparent</item>
+</style>
+
+</resources>
+-->

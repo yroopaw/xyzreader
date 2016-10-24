@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.1.0_7ea4cafa260147dde4be8dc3beed586b9bf5a8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.1.0_4f3cbd0b5972f514238ffdeea239178e4f41d5ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_0182790ca9a6959b4c0c2924d335c6c9625f2aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.1.0_45e2ae819426a5069fed451bdc33eccd38222b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_1ce9db4746c68d0acc0b5dea4fb4c3cbed468232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.0_62fbcb613a9b30e9d421bf98d3296d1d9bf96b2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_f63a6a0a55dc32b7fb310791a3f58903221bcb13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_0e595d34c0f62916b8cf145cfbc9f32296b458e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cc76c35561a4f487ce008d83303b3aba7429bb71">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e00a379a8ef7786069b3fa7d0dc4e62472c1ffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_e18a4f03c907adcf3340d916380b79efac5876b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="68188c71465dc16adc762127b8ad90ee72264cc8">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_576aca33545fed03eb5fbb85b6b275ac4c5d66ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_d04b8caa03c1c4a3a7994691ed3852c6a97b22ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_0c6599c6d8047abf0f019e4f911167e4aa26d259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_795591bdf2e0b25b0d279c5690a9c83b2fef4319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.0_18a1fdeb05c4feebee417f2a9b716ede25469558/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_3551dc85525af14802bb0b0ff5386f9fff4add4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_2923030cce9f1c4c57ca56db565a37631cda0e24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_fd7ad751e3595c1fcbb850277e7a39bbca1f0c38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="22e094d4cefbb5665188f1d074d834fe4aa3ded1">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_02128cc2afae7fc2059caac5d73765ba6191ce8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="979d718485f3d3f9db393408c96e549236c41afc">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1484d6b743196e6a5a6ba2547a371e58e1f3a57b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.1.0_af895d509a81c9ed25af03f33481ce960c909c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ad0f83c9f5b78fc397d7c6bc22f3b2b0e5048acf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_a213547a3e80c5b54fadd0140215438f3ccff4fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_a2c4787f8d406166d128881ef8816731f935b65d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_d3e4aa174683403b9c5c80bfe803a88ed99b306d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/yusuf/Desktop/Android_NanoDegree/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.0_d42289270f146e978266708887df9a15e5faca2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yusuf/Desktop/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/yusuf/Desktop/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.0_7b8d838ada363d36ad37c82fd04fd0cf79aefb9f/classes.dex" />
+    </item>
+
+</items>
